@@ -3,7 +3,3 @@ Newfile1
 
 Here's my new file. Just one line. Going to commit this.
 I changed my mind. I'm going to change the text of this file.
-
-=====================================================================================
-
-I'm going to make a change and am now going to put this change into the staging index.
