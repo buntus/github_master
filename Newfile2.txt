@@ -1,0 +1,4 @@
+Newfile2.txt
+
+
+This is a new file added to the Newlocalworking branch.
